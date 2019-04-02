@@ -31,8 +31,8 @@ TODO：补充截图，提升体验。
 ## 源码
 
 * 周立的Spring Cloud学习示例：[spring-cloud-study](https://github.com/eacdy/spring-cloud-study)
-* 最全最完善的的Spring Cloud代码示例：[Spring Cloud示例](https://github.com/itmuch/spring-cloud-docker-microservice-book-code)
-* 程序猿DD学习示例：[SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning)
+* 最全最完善的的Spring Cloud代码示例（70+个示例）：[Spring Cloud示例](https://github.com/itmuch/spring-cloud-docker-microservice-book-code)
+* 程序猿DDSpring Cloud学习示例：[SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning)
 * 史上最简单的Spring  Cloud教程源码：[SpringCloud Learning](https://github.com/forezp/SpringCloudLearning)
 
 
