@@ -48,7 +48,29 @@ TODO：补充截图，提升体验。
 
 
 
+## 中间件
+
+> **注**：这里只罗列第三方中间件，不包含Spring Cloud原生支持的中间件。
+
+* 兼容JTA规范的基于TCC机制的分布式事务管理器： [ByteTCC](https://github.com/liuyangming/ByteTCC)
+  * [与Spring Cloud配合使用示例](https://github.com/liuyangming/ByteTCC-sample/tree/master/springcloud-sample)
+* 易上手、高性能的分布式解决方案：[Alibaba Seata](https://github.com/seata/seata)
+  * [与Spring Cloud配合使用示例](https://github.com/spring-cloud-incubator/spring-cloud-alibaba/tree/master/spring-cloud-alibaba-examples/fescar-example)
+* 高性能分布式事务框架：[LCN](https://github.com/codingapi/tx-lcn)
+  * [与Spring Cloud配合使用示例](https://github.com/codingapi/txlcn-demo)
+
+
+
 ## 其他
 
+* 分布式锁：[基于Redis的分布式锁](http://www.itmuch.com/spring-boot/global-lock/)
 * [Awesome IDEA](https://github.com/eacdy/awesome-idea)
+
+
+
+## 来交流啊~~~
+
+关注 `IT牧场` ，回复 `Spring Cloud` 进群交流。
+
+![IT牧场公众号](wx-mp.jpg)
 
