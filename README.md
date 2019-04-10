@@ -47,6 +47,7 @@ TODO：补充截图，提升体验。
 * 基于Spring Boot、Spring Cloud、vue的考试系统：[spring-microservice-exam](https://gitee.com/wells2333/spring-microservice-exam)
 * 基于Spring Cloud的个人财务处理软件，老牌Spring Cloud学习示例 [piggymetrics](https://github.com/sqshq/piggymetrics)
 * 基于 Angular 4 + Spring Cloud 的企业级基础功能框架：[FCat](https://gitee.com/xfdm/FCat)
+* 基于LayUI + Spring Cloud的企业级微服务框架：[open-capacity-platform](https://gitee.com/owenwangwen/open-capacity-platform)
 
 
 
