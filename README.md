@@ -61,6 +61,8 @@ TODO：补充截图，提升体验。
   * [与Spring Cloud配合使用示例](https://github.com/spring-cloud-incubator/spring-cloud-alibaba/tree/master/spring-cloud-alibaba-examples/fescar-example)
 * 高性能分布式事务框架：[LCN](https://github.com/codingapi/tx-lcn)
   * [与Spring Cloud配合使用示例](https://github.com/codingapi/txlcn-demo)
+* 一站式SOA/微服务分布式事务解决方案：[EasyTransaction](https://github.com/QNJR-GROUP/EasyTransaction)
+  * [与Spring Cloud配合使用示例](https://github.com/QNJR-GROUP/EasyTransaction/tree/master/easytrans-demo/tcc-and-fescar)
 
 
 
