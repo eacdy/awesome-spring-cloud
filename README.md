@@ -2,16 +2,17 @@
 
 公正、公平、尊重原创、不夹带私人恩怨的Spring Cloud学习资源。
 
-**欢迎投稿！**
+**欢迎投稿，一起完善！**
 
-TODO：补充截图，提升体验。
+
 
 ## 目录
 
 * [博客](#博客)
-* [学习示例代码](#学习示例代码)
+* [示例代码](#示例代码)
 * [开源项目](#开源项目)
 * [中间件](#中间件)
+* [网站资源](#网站资源)
 * [其他](#其他)
 * [来交流啊~~~](#来交流啊~~~)
 
@@ -30,7 +31,7 @@ TODO：补充截图，提升体验。
 
 
 
-## 学习示例代码
+## 示例代码
 
 * 跟我学Spring Cloud配套代码：[spring-cloud-study](https://github.com/eacdy/spring-cloud-study)
 * 最全的Spring Cloud代码示例（70+个示例）：[Spring Cloud示例](https://github.com/itmuch/spring-cloud-docker-microservice-book-code)
@@ -112,6 +113,20 @@ Gitee：<https://gitee.com/owenwangwen/open-capacity-platform>
 
 
 
+### XxPay
+
+简介：XxPay聚合支付使用Java开发，包括spring-cloud、dubbo、spring-boot三个架构版本，已接入微信、支付宝等主流支付渠道，可直接用于生产环境。
+
+Gitee：<https://gitee.com/jmdhappy/xxpay-master>
+
+演示地址：`http://mgr.xxpay.org/` ，用户名/密码：自动登录
+
+截图：
+
+![xxpay](images/xxpay.png)
+
+
+
 ## 中间件
 
 > **注**：这里只罗列第三方中间件，不包含Spring Cloud原生支持的中间件。
@@ -124,6 +139,17 @@ Gitee：<https://gitee.com/owenwangwen/open-capacity-platform>
   * [与Spring Cloud配合使用示例](https://github.com/codingapi/txlcn-demo)
 * 一站式SOA/微服务分布式事务解决方案：[EasyTransaction](https://github.com/QNJR-GROUP/EasyTransaction)
   * [与Spring Cloud配合使用示例](https://github.com/QNJR-GROUP/EasyTransaction/tree/master/easytrans-demo/tcc-and-fescar)
+
+
+
+## 网站资源
+
+* [官方网站](https://spring.io/projects/spring-cloud)
+* [官方文档](https://spring.io/projects/spring-cloud#learn)
+* [Gitter.im](https://gitter.im/spring-cloud/spring-cloud)
+  * Spring Cloud官方聊天室，很活跃，在里面可以提问
+* [Spring4all社区](http://www.spring4all.com/)
+  * 以Spring为中心的技术社区
 
 
 
