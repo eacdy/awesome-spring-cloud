@@ -2,7 +2,17 @@
 
 公正、公平、尊重原创、不夹带私人恩怨的Spring Cloud学习资源。
 
-**欢迎投稿，一起完善！打造最强的Spring Cloud学习资源帖！**
+> **TIPS**
+>
+> - 欢迎转载！
+>
+> - 欢迎投稿，共同完善！**一起打造最强的Spring Cloud学习资源帖！**
+
+投稿方式（任选）：
+
+- [GitHub](https://github.com/eacdy/awesome-spring-cloud)
+- [Gitee](https://gitee.com/itmuch/awesome-spring-cloud)
+- 加笔者微信 `jumping_me` 投稿
 
 
 
