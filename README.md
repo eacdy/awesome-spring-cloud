@@ -2,6 +2,10 @@
 
 公正、公平、尊重原创、不夹带私人恩怨的Spring Cloud学习资源。
 
+TODO
+* 补充Springblade: https://www.oschina.net/news/105930/springblade-2-2-1-released
+
+
 > **TIPS**
 >
 > - 欢迎转载！
