@@ -84,7 +84,7 @@ TODO
 
 **Gitee**：[Spring Microservice Exam](https://gitee.com/wells2333/spring-microservice-exam)
 
-**演示地址**：`http://182.254.233.125/` 
+**演示地址**：`http://182.254.233.125/` ，来自官方文档，但笔者测试无法访问。
 
 **截图**：
 
